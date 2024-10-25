@@ -1,0 +1,43 @@
+EVA1 and EVA2
+EVA1: This could refer to the first version of an Electric Vehicle Architecture (EVA). EVA is a platform or architecture used for developing electric vehicles, incorporating components, systems, and technology specifically designed for electric drivetrains.
+EVA2: The second generation of this architecture, which could include improvements or new capabilities, especially for future electric vehicle models.
+NGI (Next Generation Infotainment): This likely refers to a sophisticated infotainment system in the vehicle, offering improved user interfaces, multimedia systems, and connected features like navigation and online services.
+PIVI: PIVI Pro is JLR’s latest infotainment system, designed for better performance, user experience, and integration with the vehicle’s core functions.
+Vehicle Codes
+Each of these codes corresponds to specific models:
+
+L663: Defender
+X590: I-Pace (Jaguar's all-electric performance SUV)
+X760: XE
+X260: XF
+X391: XJ
+X761: F-Pace
+L560: Velar
+X540: E-Pace
+L462: Discovery
+L550: Discovery Sport
+L551: Evoque
+L461: Sport (Range Rover Sport)
+L405: Range Rover
+Key Automotive Terms:
+Track My Order: This feature allows customers to monitor the progress of their vehicle order.
+Prove Out SVT: SVT could refer to specific vehicle tests (Special Vehicle Testing), proving out features before launch.
+Telematics Entitlements: These refer to permissions and data services related to telematics, such as vehicle location, diagnostics, and remote services.
+Vehicle Log In Using QR Code: A feature allowing users to log into their vehicle's system using a QR code, enhancing security and ease of use.
+Share Key via Wallet: This could involve sharing a digital key (such as NFC) via a digital wallet app like Apple Wallet or Google Pay.
+Manage NFC Cards: A feature for managing Near Field Communication (NFC) cards, which could be used for keyless entry or vehicle access.
+Core Settings EVA 25: Core settings managed in the Electric Vehicle Architecture 25, a part of the vehicle's software framework.
+Factory Reset via HMI: A factory reset of the vehicle's settings through the Human-Machine Interface (HMI).
+ADAS (Advanced Driver Assistance Systems) Subscriptions: Enabling paid features related to safety systems like lane-keeping, adaptive cruise control, etc.
+VCS Integration: Integration with Vehicle Configuration System, for vehicle setup and customization.
+PAAK (Phone as a Key): A technology that allows a phone to act as a digital car key.
+NFC Card for Breakdown Company: Allowing a breakdown company to access the vehicle via an NFC card in case of emergencies.
+KYC (Know Your Customer) Solution: This is likely used for verifying the identity of the vehicle owner or driver, ensuring security and personalization.
+Suggested Features for Your Android Mockup:
+Order Tracking: A user-friendly screen where customers can enter their order details to track the progress of their vehicle.
+Vehicle Settings Management: The ability to manage core vehicle settings (e.g., seat adjustments, climate control) through the app.
+Remote Access & Control: Use of NFC cards or digital keys stored in a mobile wallet to access and control the vehicle remotely.
+Subscription Management: Let users view and manage subscriptions to connected vehicle services (e.g., navigation, safety features).
+User Profile Management: Multiple users can set up their preferences and settings, which are applied when they log into the vehicle.
+Vehicle Diagnostics & Alerts: Display information about the vehicle's health and performance, as well as alerts like service reminders.
+Factory Reset & Cloud Sync: Allow users to reset vehicle settings or restore them from the cloud.
